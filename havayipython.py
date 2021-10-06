@@ -1,0 +1,1 @@
+print('barev,hello,privet,es haykon em u es lav txa ch(em) vonc saqon')
